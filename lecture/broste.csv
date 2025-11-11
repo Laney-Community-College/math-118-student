@@ -1,0 +1,7 @@
+Age,Treatment Group,Died (Treatment),Died percent (Treatment),Control GroupDied (Control),Died (Control),Died percent (Control)
+< 35,1367,3,0.2,1337,7,0.5
+35-44,728,3,0.4,731,4,0.5
+45-54,767,14,1.8,816,16,2
+55-64,870,35,4,896,33,3.7
+> 65,953,190,19.9,958,162,16.9
+Total,4685,245,5.2,4738,222,222
