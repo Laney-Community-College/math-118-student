@@ -1,51 +1,51 @@
-Student,Commute Time (minutes)
-Student 01,30.0
-Student 02,73.9
-Student 03,26.8
-Student 04,18.9
-Student 05,22.3
-Student 06,22.6
-Student 07,24.2
-Student 08,27.9
-Student 09,17.3
-Student 10,18.5
-Student 11,20.7
-Student 12,14.5
-Student 13,66.6
-Student 14,20.1
-Student 15,28.7
-Student 16,24.4
-Student 17,11.7
-Student 18,37.1
-Student 19,14.5
-Student 20,19.4
-Student 21,88.2
-Student 22,30.9
-Student 23,19.8
-Student 24,18.6
-Student 25,37.5
-Student 26,11.6
-Student 27,19.0
-Student 28,19.2
-Student 29,32.2
-Student 30,11.9
-Student 31,27.5
-Student 32,31.5
-Student 33,33.1
-Student 34,23.8
-Student 35,21.9
-Student 36,23.7
-Student 37,18.7
-Student 38,16.0
-Student 39,35.6
-Student 40,36.5
-Student 41,19.0
-Student 42,22.7
-Student 43,25.8
-Student 44,15.2
-Student 45,38.0
-Student 46,17.3
-Student 47,16.4
-Student 48,26.1
-Student 49,11.4
-Student 50,43.0
+Commute Time (minutes)
+30
+73.9
+26.8
+18.9
+22.3
+22.6
+24.2
+27.9
+17.3
+18.5
+20.7
+14.5
+66.6
+20.1
+28.7
+24.4
+11.7
+37.1
+14.5
+19.4
+88.2
+30.9
+19.8
+18.6
+37.5
+11.6
+19
+19.2
+32.2
+11.9
+27.5
+31.5
+33.1
+23.8
+21.9
+23.7
+18.7
+16
+35.6
+36.5
+19
+22.7
+25.8
+15.2
+38
+17.3
+16.4
+26.1
+11.4
+43
